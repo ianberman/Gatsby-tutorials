@@ -24,7 +24,6 @@ export default ({ data }) => {
                 <td>{node.prettySize}</td>
                 <td>{node.extension}</td>
                 <td>{node.birthTime}</td>
-                // node is an object in graphql
               </tr>
             ))}
           </tbody>
@@ -33,6 +32,7 @@ export default ({ data }) => {
     </Layout>
   )
 }
+// node is basically an object in graphql
 
 // below is a sample graphql query accessible from localhost:8000/___graphql
 //

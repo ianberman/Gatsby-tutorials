@@ -1,1 +1,1 @@
-module.exports = require("/Users/ianberman/Documents/GitHub/tutorial-part-four/src/utils/typography")
+module.exports = require("/Users/ianberman/Documents/GitHub/Gatsby-tutorials/tutorial-part-four/src/utils/typography")
